@@ -15,6 +15,8 @@ namespace vcbtest.Services
             return 5d;
         }
     }
+
+    [Trait("sprint", "3")]
     public class BankingServiceTest
     {
         BankingService bankingService;
@@ -33,7 +35,7 @@ namespace vcbtest.Services
         {
             //Arrange
             int money = 200000000;
-            int time = 90;
+            int time = 80;
             double expected = 2465753;
 
             //Act

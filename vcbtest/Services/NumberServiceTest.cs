@@ -4,6 +4,7 @@ using vcbmain.Services;
 
 namespace vcbtest;
 
+[Trait("sprint", "2")]
 public class NumberServiceTest
 {
     public class NumberTestData : IEnumerable<object[]>

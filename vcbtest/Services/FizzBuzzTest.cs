@@ -7,6 +7,7 @@ using vcbmain.Services;
 
 namespace vcbtest.Services
 {
+    [Trait("sprint", "1")]
     public class FizzBuzzTest
     {
         private FizzBuzz fizzBuzz;
