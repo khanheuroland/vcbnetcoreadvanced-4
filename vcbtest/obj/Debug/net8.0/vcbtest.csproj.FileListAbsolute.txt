@@ -106,3 +106,6 @@ e:\VCB-3\vcbtest\obj\Debug\net8.0\refint\vcbtest.dll
 e:\VCB-3\vcbtest\obj\Debug\net8.0\vcbtest.pdb
 e:\VCB-3\vcbtest\obj\Debug\net8.0\vcbtest.genruntimeconfig.cache
 e:\VCB-3\vcbtest\obj\Debug\net8.0\ref\vcbtest.dll
+E:\VCB-3\vcbtest\obj\Debug\net8.0\vcbtest.sourcelink.json
+E:\VCB-3\vcbtest\bin\Debug\net8.0\Castle.Core.dll
+E:\VCB-3\vcbtest\bin\Debug\net8.0\Moq.dll

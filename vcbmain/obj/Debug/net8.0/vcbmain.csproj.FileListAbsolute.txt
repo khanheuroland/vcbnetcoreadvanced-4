@@ -28,3 +28,4 @@ e:\VCB-3\vcbmain\obj\Debug\net8.0\refint\vcbmain.dll
 e:\VCB-3\vcbmain\obj\Debug\net8.0\vcbmain.pdb
 e:\VCB-3\vcbmain\obj\Debug\net8.0\vcbmain.genruntimeconfig.cache
 e:\VCB-3\vcbmain\obj\Debug\net8.0\ref\vcbmain.dll
+E:\VCB-3\vcbmain\obj\Debug\net8.0\vcbmain.sourcelink.json
